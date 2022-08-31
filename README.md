@@ -2,7 +2,7 @@
 
 This is the tutorial for the successful installation of the MicBoost driver, and its proper use.
 
-> You have to install the Microphone Booster Driver first. 🎤
+> You must first have the Microphone Boost Drivers installed. 🎤
 
 > Then a cmd will appear in your screen for a little moment and all your programs will close and re-open. 🎤
 
